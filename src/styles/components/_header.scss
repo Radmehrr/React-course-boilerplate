@@ -1,0 +1,22 @@
+.header {
+  background: $dark-gray;
+  height: 100px;
+}
+
+.header__content {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: $s-size 0;
+}
+
+.header__title {
+  color: white;
+  margin: 0;
+  padding-top: 20px;
+}
+
+.header-link {
+  color: white;
+  text-decoration: none;
+}
